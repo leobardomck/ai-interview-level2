@@ -1,0 +1,14 @@
+{
+  "name": "ai-interview-level2",
+  "version": "1.0.0",
+  "description": "Level 2 AI Integration Interview — Intermediate Engineering Challenges",
+  "scripts": {
+    "test": "jest",
+    "test:01": "jest challenges/01-refactoring",
+    "test:02": "echo 'Challenge 02 is a code review — no automated tests.'",
+    "test:03": "jest challenges/03-testing"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
