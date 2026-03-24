@@ -19,10 +19,6 @@ Each challenge targets a different dimension of working effectively with AI:
 - The evaluation is based on the **quality of your final output**, not on whether you used AI.
 - We care about your ability to **identify where AI output falls short** and improve it.
 
-## Time Suggestion
-
-**60–90 minutes** for all three challenges. You do not need to finish all three. Depth on fewer challenges is better than shallow attempts on all of them.
-
 ## Evaluation Criteria
 
 - **Critical thinking about AI output** — Do you accept the first response or iterate?
